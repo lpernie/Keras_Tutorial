@@ -1,3 +1,5 @@
 deepdish
+keras
 sklearn
+scikit-learn
 ROOT

@@ -7,8 +7,7 @@ USER root
 # Add dependencies
 RUN pip install -U pip
 RUN pip install -U scikit-learn
-#RUN pip install -U sklearn
 RUN pip install -U keras
-#RUN pip install -U Tensorflow
+RUN pip install -U tensorflow
 
 USER main
